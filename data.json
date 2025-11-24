@@ -528,15 +528,227 @@
           "name": "الاستفهام",
           "lectures": [
             {
-              "title": "محاضرة 1",
-              "description": "محاضرة 1",
-              "url": "https://iframe.mediadelivery.net/embed/519756/63e1a37b-1037-4ce4-a560-ee6c512b079c"
-            },
+             "title": "محاضرة رقم 1",
+    "description": "محاضرة رقم 1",
+    "url": "https://vz-2d153850-243.b-cdn.net/213cec68-b282-4c42-a56b-804cd524a603/play_720p.mp4"
+  },
+  {
+    "title": "محاضرة رقم 2",
+    "description": "محاضرة رقم 2",
+    "url": "https://vz-2d153850-243.b-cdn.net/2fbdf134-db33-4fda-af43-c03481ce3511/play_720p.mp4"
+  },
+  {
+    "title": "محاضرة رقم 3",
+    "description": "محاضرة رقم 3",
+    "url": "https://vz-2d153850-243.b-cdn.net/53e5fd6a-6896-4487-a35d-1b5bc8bbcc23/play_720p.mp4"
+  },
+  {
+    "title": "محاضرة رقم 4",
+    "description": "محاضرة رقم 4",
+    "url": "https://vz-2d153850-243.b-cdn.net/eb00646e-9816-49a3-a32a-b1aa5aea2ff5/play_720p.mp4"
+  },
+  {
+    "title": "محاضرة رقم 5",
+    "description": "محاضرة رقم 5",
+    "url": "https://vz-2d153850-243.b-cdn.net/582bd17b-552d-438e-b85a-6143c42941c7/play_720p.mp4"
+  },
+  {
+    "title": "محاضرة رقم 6",
+    "description": "محاضرة رقم 6",
+    "url": "https://vz-2d153850-243.b-cdn.net/708d6db4-9dba-48d7-b7f3-dd400c0912ad/play_720p.mp4"
+  },
+  {
+    "title": "محاضرة رقم 7",
+    "description": "محاضرة رقم 7",
+    "url": "https://vz-2d153850-243.b-cdn.net/764d7e9f-1ad0-493f-a485-2965d4b9c89b/play_720p.mp4"
+  },
+  {
+    "title": "محاضرة رقم 8",
+    "description": "محاضرة رقم 8",
+    "url": "https://vz-2d153850-243.b-cdn.net/873c36a1-b590-4c06-9cdb-cd86f619a600/play_720p.mp4"
+  },
+  {
+    "title": "محاضرة رقم 9",
+    "description": "محاضرة رقم 9",
+    "url": "https://vz-2d153850-243.b-cdn.net/444dc89c-96f4-490b-9589-db24da847ed4/play_720p.mp4"
+  },
+  {
+    "title": "محاضرة رقم 10",
+    "description": "محاضرة رقم 10",
+    "url": "https://vz-2d153850-243.b-cdn.net/d952f346-ff30-4208-8beb-957a8e0a3e85/play_720p.mp4"
+  },
+  {
+    "title": "محاضرة رقم 11",
+    "description": "محاضرة رقم 11",
+    "url": "https://vz-2d153850-243.b-cdn.net/fe794ba6-281a-486a-a891-33f1149cbb05/play_720p.mp4"
+  },
+  {
+    "title": "محاضرة رقم 12",
+    "description": "محاضرة رقم 12",
+    "url": "https://vz-2d153850-243.b-cdn.net/08c5a3c8-b848-4526-a757-78dafcd717db/play_720p.mp4"
+  },
+  {
+    "title": "محاضرة رقم 13",
+    "description": "محاضرة رقم 13",
+    "url": "https://vz-2d153850-243.b-cdn.net/f7d4334d-53d4-4166-9650-6589d9b953b8/play_720p.mp4"
+  },
+  {
+    "title": "محاضرة رقم 14",
+    "description": "محاضرة رقم 14",
+    "url": "https://vz-2d153850-243.b-cdn.net/bcc97223-1904-4475-b698-bbc6b23ec622/play_720p.mp4"
+  },
+  {
+    "title": "محاضرة رقم 15",
+    "description": "محاضرة رقم 15",
+    "url": "https://vz-2d153850-243.b-cdn.net/735b6f37-00c9-4959-a300-43800dedc102/play_720p.mp4"
+  },
+  {
+    "title": "محاضرة رقم 16",
+    "description": "محاضرة رقم 16",
+    "url": "https://vz-2d153850-243.b-cdn.net/c7d77590-ec6a-4b0a-b688-def95e647d0c/play_720p.mp4"
+  },
+  {
+    "title": "محاضرة رقم 17",
+    "description": "محاضرة رقم 17",
+    "url": "https://vz-2d153850-243.b-cdn.net/4a2c4702-cd5e-4c21-90b0-904ec3ea4f46/play_720p.mp4"
+  },
+  {
+    "title": "محاضرة رقم 18",
+    "description": "محاضرة رقم 18",
+    "url": "https://vz-2d153850-243.b-cdn.net/45b4dc55-50d6-46a4-909d-b9184075b242/play_720p.mp4"
+  },
+  {
+    "title": "محاضرة رقم 19",
+    "description": "محاضرة رقم 19",
+    "url": "https://vz-2d153850-243.b-cdn.net/704fb8f5-901c-4347-8ed4-e00c3548b0cc/play_720p.mp4"
+  },
+  {
+    "title": "محاضرة رقم 20",
+    "description": "محاضرة رقم 20",
+    "url": "https://vz-2d153850-243.b-cdn.net/510d7461-d22f-42c0-94de-b1ed46a6adcd/play_720p.mp4"
+  },
+  {
+    "title": "محاضرة رقم 21",
+    "description": "محاضرة رقم 21",
+    "url": "https://vz-2d153850-243.b-cdn.net/945a94cf-45cd-4cbb-97f2-28847dce8f8e/play_720p.mp4"
+  },
+  {
+    "title": "محاضرة رقم 22",
+    "description": "محاضرة رقم 22",
+    "url": "https://vz-2d153850-243.b-cdn.net/0122da67-98fc-443e-a161-a861a1d6f640/play_720p.mp4"
+  },
+  {
+    "title": "محاضرة رقم 23",
+    "description": "محاضرة رقم 23",
+    "url": "https://vz-2d153850-243.b-cdn.net/bc077a94-18a2-4e27-9201-c826a1007fdb/play_720p.mp4"
+  },
+  {
+    "title": "محاضرة رقم 24",
+    "description": "محاضرة رقم 24",
+    "url": "https://vz-2d153850-243.b-cdn.net/d4914a73-5978-4585-8fe4-7d2015e968de/play_720p.mp4"
+  },
+  {
+    "title": "محاضرة رقم 25",
+    "description": "محاضرة رقم 25",
+    "url": "https://vz-2d153850-243.b-cdn.net/38113672-1184-41e7-9266-949197e384e8/play_720p.mp4"
+  },
+  {
+    "title": "محاضرة رقم 26",
+    "description": "محاضرة رقم 26",
+    "url": "https://vz-2d153850-243.b-cdn.net/e2b42083-30ab-4041-a1e9-ac49c6660bbe/play_720p.mp4"
+             }
+          ]
+        },
+        {
+          "name": " النفي ",
+          "lectures": [
             {
-              "title": "محاضرة 2",
-              "description": "محاضرة 2",
-              "url": "https://iframe.mediadelivery.net/embed/519756/dd10f952-f0bb-4a94-961d-e1e6e54f8f15"
-            }
+      "title": "محاضرة رقم 1",
+    "description": "محاضرة رقم 1",
+    "url": "https://iframe.mediadelivery.net/embed/519756/9aa4cb4e-720a-41fe-b236-d8df38d4bb2e"
+  },
+  {
+    "title": "محاضرة رقم 2",
+    "description": "محاضرة رقم 2",
+    "url": "https://iframe.mediadelivery.net/embed/519756/6f81c44b-bd67-48ca-9be1-c0f41d77bb92"
+  },
+  {
+    "title": "محاضرة رقم 3",
+    "description": "محاضرة رقم 3",
+    "url": "https://iframe.mediadelivery.net/embed/519756/40929279-834e-4436-80a5-2dc314872de0"
+  },
+  {
+    "title": "محاضرة رقم 4",
+    "description": "محاضرة رقم 4",
+    "url": "https://iframe.mediadelivery.net/embed/519756/6304d3da-e385-4c6e-9dce-593b7bfd9473"
+  },
+  {
+    "title": "محاضرة رقم 5",
+    "description": "محاضرة رقم 5",
+    "url": "https://iframe.mediadelivery.net/embed/519756/2d1ea4ec-e4ca-465a-9e50-f5564821a2cf"
+  },
+  {
+    "title": "محاضرة رقم 6",
+    "description": "محاضرة رقم 6",
+    "url": "https://iframe.mediadelivery.net/embed/519756/ab136dd1-c612-475e-a55a-dbc44e61ef76"
+  },
+  {
+    "title": "محاضرة رقم 7",
+    "description": "محاضرة رقم 7",
+    "url": "https://iframe.mediadelivery.net/embed/519756/1b3f77c9-a19b-4984-9969-6a8f5cfb8cd8"
+  },
+  {
+    "title": "محاضرة رقم 8",
+    "description": "محاضرة رقم 8",
+    "url": "https://iframe.mediadelivery.net/embed/519756/1805e774-9f4a-4282-96be-66c1bdf78ae3"
+  },
+  {
+    "title": "محاضرة رقم 9",
+    "description": "محاضرة رقم 9",
+    "url": "https://iframe.mediadelivery.net/embed/519756/eb5f714d-fa32-43b0-9ca5-0a3e1489900c"
+  },
+  {
+    "title": "محاضرة رقم 10",
+    "description": "محاضرة رقم 10",
+    "url": "https://iframe.mediadelivery.net/embed/519756/19e90dd2-d7c7-4aea-93a9-b1bf82a9e271"
+  },
+  {
+    "title": "محاضرة رقم 11",
+    "description": "محاضرة رقم 11",
+    "url": "https://iframe.mediadelivery.net/embed/519756/7f907d84-bad8-4ae8-b2a8-bf2ccd6386a5"
+  },
+  {
+    "title": "محاضرة رقم 12",
+    "description": "محاضرة رقم 12",
+    "url": "https://iframe.mediadelivery.net/embed/519756/5578afb1-9580-4282-b7d8-0d5f93cb8782"
+  },
+  {
+    "title": "محاضرة رقم 13",
+    "description": "محاضرة رقم 13",
+    "url": "https://iframe.mediadelivery.net/embed/519756/85c69866-4825-4356-bc8c-59508cc6e3fa"
+  },
+  {
+    "title": "محاضرة رقم 14",
+    "description": "محاضرة رقم 14",
+    "url": "https://iframe.mediadelivery.net/embed/519756/b402ca6e-4bff-4b53-a31a-8b911365a55e"
+  },
+  {
+    "title": "محاضرة رقم 15",
+    "description": "محاضرة رقم 15",
+    "url": "https://iframe.mediadelivery.net/embed/519756/09c53ece-5edb-4bce-823a-bd2ec77ffe02"
+  },
+  {
+    "title": "محاضرة رقم 16",
+    "description": "محاضرة رقم 16",
+    "url": "https://iframe.mediadelivery.net/embed/519756/6631267a-1e67-465e-b96f-291e6942c092"
+  },
+  {
+    "title": "محاضرة رقم 17",
+    "description": "محاضرة رقم 17",
+    "url": "https://iframe.mediadelivery.net/embed/519756/f07ec48f-6eff-4009-8928-6c0fa16ab3e6"
+
+
+              }
           ]
         }
       ]
